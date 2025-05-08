@@ -28,7 +28,7 @@ Setup Instructions
    Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/Library-Management-System-Database.git
+   git clone https://github.com/Niyonkuru-olivier/Library-Management-System-Database.git
    cd Library-Management-System-Database
 2. Import the database:
 mysql -u username -p < database/library.sql
